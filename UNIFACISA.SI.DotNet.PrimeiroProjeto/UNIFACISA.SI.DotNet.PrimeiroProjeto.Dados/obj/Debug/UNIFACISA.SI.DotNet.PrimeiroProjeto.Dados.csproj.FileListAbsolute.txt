@@ -1,0 +1,5 @@
+D:\dotNet\UNIFACISA.SI.DotNet.PrimeiroProjeto\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados\bin\Debug\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados.dll
+D:\dotNet\UNIFACISA.SI.DotNet.PrimeiroProjeto\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados\bin\Debug\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados.pdb
+D:\dotNet\UNIFACISA.SI.DotNet.PrimeiroProjeto\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados\obj\Debug\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados.csprojResolveAssemblyReference.cache
+D:\dotNet\UNIFACISA.SI.DotNet.PrimeiroProjeto\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados\obj\Debug\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados.dll
+D:\dotNet\UNIFACISA.SI.DotNet.PrimeiroProjeto\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados\obj\Debug\UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados.pdb
