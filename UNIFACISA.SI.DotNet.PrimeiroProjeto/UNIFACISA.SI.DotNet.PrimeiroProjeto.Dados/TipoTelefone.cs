@@ -2,6 +2,6 @@
 {
     public enum TipoTelefone
     {
-        Celuar, Residencial, Comercial, Contato;
+        Celuar, Residencial, Comercial, Contato
     }
 }

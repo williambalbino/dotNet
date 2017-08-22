@@ -1,0 +1,4 @@
+https://sourcemaking.com/refactoring/smells
+http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+https://refactoring.com/
