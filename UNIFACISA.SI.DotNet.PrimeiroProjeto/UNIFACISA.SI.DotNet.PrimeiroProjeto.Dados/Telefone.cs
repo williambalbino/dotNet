@@ -9,6 +9,6 @@ namespace UNIFACISA.SI.DotNet.PrimeiroProjeto.Dados
     public class Telefone
     {
         public string Numero { get; set; }
-        public string Tipo { get; set; }
+        public TipoTelefone Tipo { get; set; }
     }
 }

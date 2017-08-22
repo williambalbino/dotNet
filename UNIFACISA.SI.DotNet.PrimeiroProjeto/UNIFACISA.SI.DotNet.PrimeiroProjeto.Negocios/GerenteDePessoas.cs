@@ -14,8 +14,9 @@ namespace UNIFACISA.SI.DotNet.PrimeiroProjeto.Negocios
             pessoa.CPF = "12344321";
 
             string var = pessoa.CPF;
-                    
-        }
+
+            
+    }
 
     }
 }
